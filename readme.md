@@ -54,7 +54,7 @@ OMNISCAPE-DATAPARSE/
 ├── amapDraw.html                  # 可视化 HTML（高德地图绘制）
 ├── msgRegister.py                 # ROS2 消息注册脚本
 ├── name.ros_pickle                # ROS 消息字典序列化文件
-├── OmniScape_nav_lint.py          # 主解析/处理脚本
+├── OmniScape_nav_lint.py          # 数据检查的依赖函数
 └── readme.md                      # 项目说明文档（本文件）
 ```
 
