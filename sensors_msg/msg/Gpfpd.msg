@@ -1,0 +1,30 @@
+std_msgs/Header header
+string time
+int32 fpd_gnssweek
+float32 fpd_gnsstime_gnss
+float32 fpd_gnssheading
+float32 fpd_gnsspitch
+float32 fpd_gnssroll
+float32 fpd_gnsslatitude
+float32 fpd_gnsslongitude
+float32 fpd_gnssaltitude
+float32 fpd_gnssve
+float32 fpd_gnssvn
+float32 fpd_gnssvu
+float32 fpd_gnssbaseline
+float32 fpd_gnssnsv1
+float32 fpd_gnssnsv2
+string fpd_gnsssta
+string fpd_gnssfpg_cs
+int32 imu_gnssweek
+float32 fpd_gnsstime_imu
+float32 gyro_x
+float32 gyro_y
+float32 gyro_z
+float32 acc_x
+float32 acc_y
+float32 acc_z
+float32 tpy
+string fpd_cs
+
+

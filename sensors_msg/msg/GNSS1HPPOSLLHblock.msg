@@ -1,0 +1,12 @@
+uint16 version
+uint64 itow
+int64 lon
+int64 lat
+int64 height
+int64 hmsl
+int16 lonhp
+int16 lathp
+int16 heighthp
+int16 hmslhp
+int64 hacc
+int64 vacc

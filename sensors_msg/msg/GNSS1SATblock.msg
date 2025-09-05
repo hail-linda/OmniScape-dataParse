@@ -1,0 +1,17 @@
+# header:
+uint64 itow
+uint16 version
+uint16 numsvs
+uint16 reserved1_1
+uint16 reserved1_2
+# body:
+uint16 gnssid
+uint16 svid
+uint16 cno
+int16 elev
+int16 azim
+int16 prres
+uint16 flags_1
+uint16 flags_2
+uint16 flags_3
+uint16 flags_4

@@ -1,0 +1,5 @@
+2025-03-13 15:39:29,898 - OmniScape_nav_lint - INFO - DB3文件路径 C:/rosbag2_2025_03_03-17_38_27 正常-DB3Check
+2025-03-13 15:39:29,927 - OmniScape_nav_lint - INFO - 输出路径 C:/rosbag2_2025_03_03-17_38_27/toCSV/ 正常-dirExistCheck
+2025-03-13 15:39:29,929 - OmniScape_nav_lint - INFO - 输出路径 C:/rosbag2_2025_03_03-17_38_27/toImg/ 正常-dirExistCheck
+2025-03-13 15:39:29,934 - OmniScape_nav_lint - INFO - 话题检查完成,正常-topicMsgCheck
+2025-03-13 15:40:12,670 - OmniScape_nav_lint - INFO - CSV导出失败  /livox/lidar：'livox_interfaces/msg/CustomMsg'-<module>

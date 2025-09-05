@@ -1,0 +1,8 @@
+2025-09-05 15:26:35,795 - OmniScape_nav_lint - INFO - DB3文件路径 E:\NAV_DATASETS\CrossLoc\rosbag2_2025_08_18-19_21_38 正常-DB3Check
+2025-09-05 15:26:35,882 - OmniScape_nav_lint - INFO - 输出路径 E:\NAV_DATASETS\CrossLoc\rosbag2_2025_08_18-19_21_38/toCSV/ 正常-dirExistCheck
+2025-09-05 15:26:35,884 - OmniScape_nav_lint - INFO - 输出路径 E:\NAV_DATASETS\CrossLoc\rosbag2_2025_08_18-19_21_38/toImg/ 正常-dirExistCheck
+2025-09-05 15:26:35,898 - OmniScape_nav_lint - INFO - 话题检查完成,正常-topicMsgCheck
+2025-09-05 17:09:41,984 - OmniScape_nav_lint - INFO - DB3文件路径 E:\NAV_DATASETS\CrossLoc\kc_htg 正常-DB3Check
+2025-09-05 17:09:42,065 - OmniScape_nav_lint - INFO - 输出路径 E:\NAV_DATASETS\CrossLoc\kc_htg/toCSV/ 不存在，创建路径-dirExistCheck
+2025-09-05 17:09:42,069 - OmniScape_nav_lint - INFO - 输出路径 E:\NAV_DATASETS\CrossLoc\kc_htg/toImg/ 不存在，创建路径-dirExistCheck
+2025-09-05 17:09:42,112 - OmniScape_nav_lint - INFO - 话题检查完成,正常-topicMsgCheck

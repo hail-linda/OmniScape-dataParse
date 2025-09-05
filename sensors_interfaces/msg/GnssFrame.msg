@@ -1,0 +1,12 @@
+std_msgs/Header header
+string utctime
+string is_valid
+float64 lat
+float64 lon
+float32 altitude
+float32 speed
+float32 angel
+string  utcdata
+string num_starts
+string hdop
+string rtk_statu

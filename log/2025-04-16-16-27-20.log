@@ -1,0 +1,4 @@
+2025-04-16 16:27:39,084 - OmniScape_nav_lint - INFO - DB3文件路径 D:\DATASET\0318\rosbag2_2025_03_18-10_49_49 正常-DB3Check
+2025-04-16 16:27:39,099 - OmniScape_nav_lint - INFO - 输出路径 D:\DATASET\0318\rosbag2_2025_03_18-10_49_49/toCSV/ 正常-dirExistCheck
+2025-04-16 16:27:39,100 - OmniScape_nav_lint - INFO - 输出路径 D:\DATASET\0318\rosbag2_2025_03_18-10_49_49/toImg/ 正常-dirExistCheck
+2025-04-16 16:27:39,123 - OmniScape_nav_lint - INFO - 话题检查完成,正常-topicMsgCheck

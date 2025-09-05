@@ -1,0 +1,65 @@
+2025-03-07 13:47:44,553 - __main__ - INFO - DB3文件路径 C:/rosbag2_2025_03_03-17_38_27 正常-DB3Check
+2025-03-07 13:47:44,558 - __main__ - INFO - 输出路径 C:/rosbag2_2025_03_03-17_38_27/toCSV/ 正常-dirExistCheck
+2025-03-07 13:47:44,558 - __main__ - INFO - 输出路径 C:/rosbag2_2025_03_03-17_38_27/toImg/ 正常-dirExistCheck
+2025-03-07 13:47:44,562 - __main__ - INFO - 话题检查完成,正常-topicMsgCheck
+2025-03-07 13:58:53,378 - __main__ - INFO - DB3文件路径 C:/rosbag2_2025_03_03-17_38_27 正常-DB3Check
+2025-03-07 13:58:53,382 - __main__ - INFO - 输出路径 C:/rosbag2_2025_03_03-17_38_27/toCSV/ 正常-dirExistCheck
+2025-03-07 13:58:53,384 - __main__ - INFO - 输出路径 C:/rosbag2_2025_03_03-17_38_27/toImg/ 正常-dirExistCheck
+2025-03-07 13:58:53,421 - __main__ - INFO - 话题检查完成,正常-topicMsgCheck
+2025-03-07 13:59:01,424 - __main__ - INFO - CSV导出失败  /livox/lidar：'livox_interfaces/msg/CustomMsg'-<module>
+2025-03-07 13:59:07,654 - __main__ - INFO - CSV导出失败  /GNSS_0：Object of type sensors_msg__msg__GNSS1RAWXblock is not JSON serializable-<module>
+2025-03-07 13:59:10,397 - __main__ - INFO - CSV导出失败  /livox/lidar：'livox_interfaces/msg/CustomMsg'-<module>
+2025-03-07 13:59:10,465 - __main__ - INFO - CSV导出失败  /livox/imu：Object of type geometry_msgs__msg__Quaternion is not JSON serializable-<module>
+2025-03-07 13:59:11,007 - __main__ - INFO - CSV导出失败  /UWB3：Object of type sensors_msg__msg__UwbFrame3Block is not JSON serializable-<module>
+2025-03-07 13:59:11,625 - __main__ - INFO - CSV导出失败  /UWB7：Object of type sensors_msg__msg__UwbFrame3Block is not JSON serializable-<module>
+2025-03-07 13:59:48,923 - __main__ - INFO - CSV导出失败  /GNSS_0：Object of type sensors_msg__msg__GNSS1RAWXblock is not JSON serializable-<module>
+2025-03-07 13:59:51,682 - __main__ - INFO - CSV导出失败  /livox/lidar：'livox_interfaces/msg/CustomMsg'-<module>
+2025-03-07 13:59:51,749 - __main__ - INFO - CSV导出失败  /livox/imu：Object of type geometry_msgs__msg__Quaternion is not JSON serializable-<module>
+2025-03-07 13:59:52,250 - __main__ - INFO - CSV导出失败  /UWB3：Object of type sensors_msg__msg__UwbFrame3Block is not JSON serializable-<module>
+2025-03-07 13:59:52,910 - __main__ - INFO - CSV导出失败  /UWB7：Object of type sensors_msg__msg__UwbFrame3Block is not JSON serializable-<module>
+2025-03-07 14:01:37,061 - __main__ - INFO - DB3文件路径 C:/rosbag2_2025_03_03-17_38_27 正常-DB3Check
+2025-03-07 14:01:37,066 - __main__ - INFO - 输出路径 C:/rosbag2_2025_03_03-17_38_27/toCSV/ 正常-dirExistCheck
+2025-03-07 14:01:37,067 - __main__ - INFO - 输出路径 C:/rosbag2_2025_03_03-17_38_27/toImg/ 正常-dirExistCheck
+2025-03-07 14:01:37,071 - __main__ - INFO - 话题检查完成,正常-topicMsgCheck
+2025-03-07 14:01:42,373 - __main__ - INFO - CSV导出失败  /GNSS_0：Object of type sensors_msg__msg__GNSS1RAWXblock is not JSON serializable-<module>
+2025-03-07 14:01:45,050 - __main__ - INFO - CSV导出失败  /livox/lidar：'livox_interfaces/msg/CustomMsg'-<module>
+2025-03-07 14:01:45,116 - __main__ - INFO - CSV导出失败  /livox/imu：Object of type geometry_msgs__msg__Quaternion is not JSON serializable-<module>
+2025-03-07 14:01:45,655 - __main__ - INFO - CSV导出失败  /UWB3：Object of type sensors_msg__msg__UwbFrame3Block is not JSON serializable-<module>
+2025-03-07 14:01:46,257 - __main__ - INFO - CSV导出失败  /UWB7：Object of type sensors_msg__msg__UwbFrame3Block is not JSON serializable-<module>
+2025-03-07 14:02:17,314 - __main__ - INFO - CSV导出失败  /GNSS_0：Object of type sensors_msg__msg__GNSS1RAWXblock is not JSON serializable-<module>
+2025-03-07 14:02:20,055 - __main__ - INFO - CSV导出失败  /livox/lidar：'livox_interfaces/msg/CustomMsg'-<module>
+2025-03-07 14:02:20,124 - __main__ - INFO - CSV导出失败  /livox/imu：Object of type geometry_msgs__msg__Quaternion is not JSON serializable-<module>
+2025-03-07 14:02:20,673 - __main__ - INFO - CSV导出失败  /UWB3：Object of type sensors_msg__msg__UwbFrame3Block is not JSON serializable-<module>
+2025-03-07 14:02:21,311 - __main__ - INFO - CSV导出失败  /UWB7：Object of type sensors_msg__msg__UwbFrame3Block is not JSON serializable-<module>
+2025-03-07 14:03:24,893 - __main__ - INFO - CSV导出失败  /GNSS_0：Object of type sensors_msg__msg__GNSS1RAWXblock is not JSON serializable-<module>
+2025-03-07 14:04:09,131 - __main__ - INFO - CSV导出失败  /GNSS_0：'list' object has no attribute 'keys'-<module>
+2025-03-07 14:04:20,714 - __main__ - INFO - CSV导出失败  /GNSS_0：list indices must be integers or slices, not sensors_msg__msg__GNSS1HPPOSLLHblock-<module>
+2025-03-07 14:05:01,855 - __main__ - INFO - CSV导出失败  /GNSS_0：Object of type sensors_msg__msg__GNSS1RAWXblock is not JSON serializable-<module>
+2025-03-07 14:05:31,258 - __main__ - INFO - CSV导出失败  /GNSS_0：'list' object has no attribute 'keys'-<module>
+2025-03-07 14:05:50,858 - __main__ - INFO - CSV导出失败  /GNSS_0：Object of type sensors_msg__msg__GNSS1RAWXblock is not JSON serializable-<module>
+2025-03-07 14:06:09,812 - __main__ - INFO - CSV导出失败  /GNSS_0：Object of type sensors_msg__msg__GNSS1RAWXblock is not JSON serializable-<module>
+2025-03-07 14:06:24,820 - __main__ - INFO - CSV导出失败  /GNSS_0：'list' object has no attribute '__dict__'-<module>
+2025-03-07 14:06:33,864 - __main__ - INFO - CSV导出失败  /GNSS_0：Object of type sensors_msg__msg__GNSS1RAWXblock is not JSON serializable-<module>
+2025-03-07 14:06:53,957 - __main__ - INFO - CSV导出失败  /GNSS_0：Object of type sensors_msg__msg__GNSS1RAWXblock is not JSON serializable-<module>
+2025-03-07 14:07:35,597 - __main__ - INFO - CSV导出失败  /livox/lidar：'livox_interfaces/msg/CustomMsg'-<module>
+2025-03-07 14:07:35,665 - __main__ - INFO - CSV导出失败  /livox/imu：Object of type geometry_msgs__msg__Quaternion is not JSON serializable-<module>
+2025-03-07 14:07:35,699 - __main__ - INFO - CSV导出失败  /UWB3：list index out of range-<module>
+2025-03-07 14:07:35,783 - __main__ - INFO - CSV导出失败  /UWB7：list index out of range-<module>
+2025-03-07 14:08:00,379 - __main__ - INFO - CSV导出失败  /livox/lidar：'livox_interfaces/msg/CustomMsg'-<module>
+2025-03-07 14:08:00,449 - __main__ - INFO - CSV导出失败  /livox/imu：Object of type geometry_msgs__msg__Quaternion is not JSON serializable-<module>
+2025-03-07 14:08:00,484 - __main__ - INFO - CSV导出失败  /UWB3：list index out of range-<module>
+2025-03-07 14:08:00,569 - __main__ - INFO - CSV导出失败  /UWB7：list index out of range-<module>
+2025-03-07 14:08:23,593 - __main__ - INFO - CSV导出失败  /livox/lidar：'livox_interfaces/msg/CustomMsg'-<module>
+2025-03-07 14:08:23,658 - __main__ - INFO - CSV导出失败  /livox/imu：Object of type geometry_msgs__msg__Quaternion is not JSON serializable-<module>
+2025-03-07 14:08:23,729 - __main__ - INFO - CSV导出失败  /UWB3：list index out of range-<module>
+2025-03-07 14:08:23,809 - __main__ - INFO - CSV导出失败  /UWB7：list index out of range-<module>
+2025-03-07 14:08:46,049 - __main__ - INFO - CSV导出失败  /UWB3：list index out of range-<module>
+2025-03-07 14:08:46,135 - __main__ - INFO - CSV导出失败  /UWB7：list index out of range-<module>
+2025-03-07 14:10:17,298 - __main__ - INFO - CSV导出失败  /livox/lidar：'livox_interfaces/msg/CustomMsg'-<module>
+2025-03-07 14:10:17,486 - __main__ - INFO - CSV导出失败  /livox/imu：Object of type geometry_msgs__msg__Quaternion is not JSON serializable-<module>
+2025-03-07 14:12:12,330 - __main__ - INFO - CSV导出失败  /livox/lidar：'livox_interfaces/msg/CustomMsg'-<module>
+2025-03-07 14:14:39,272 - __main__ - INFO - CSV导出失败  /livox/lidar：'livox_interfaces/msg/CustomMsg'-<module>
+2025-03-07 14:24:57,432 - __main__ - INFO - DB3文件路径 C:/rosbag2_2025_03_03-17_38_27 正常-DB3Check
+2025-03-07 14:24:57,437 - __main__ - INFO - 输出路径 C:/rosbag2_2025_03_03-17_38_27/toCSV/ 正常-dirExistCheck
+2025-03-07 14:24:57,439 - __main__ - INFO - 输出路径 C:/rosbag2_2025_03_03-17_38_27/toImg/ 正常-dirExistCheck
+2025-03-07 14:24:57,448 - __main__ - INFO - 话题检查完成,正常-topicMsgCheck

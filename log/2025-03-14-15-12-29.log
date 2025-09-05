@@ -1,0 +1,24 @@
+2025-03-14 15:12:29,469 - OmniScape_nav_lint - INFO - DB3文件路径 C:\rosbag2_25031400\data\circle 正常-DB3Check
+2025-03-14 15:12:29,552 - OmniScape_nav_lint - INFO - 输出路径 C:\rosbag2_25031400\data\circle/toCSV/ 不存在，创建路径-dirExistCheck
+2025-03-14 15:12:29,554 - OmniScape_nav_lint - INFO - 输出路径 C:\rosbag2_25031400\data\circle/toImg/ 不存在，创建路径-dirExistCheck
+2025-03-14 15:12:29,574 - OmniScape_nav_lint - ERROR - 话题 /XSENSE6 不存在-topicMsgCheck
+2025-03-14 15:12:45,359 - OmniScape_nav_lint - INFO - DB3文件路径 C:\rosbag2_25031400\data\circle 正常-DB3Check
+2025-03-14 15:12:45,365 - OmniScape_nav_lint - INFO - 输出路径 C:\rosbag2_25031400\data\circle/toCSV/ 正常-dirExistCheck
+2025-03-14 15:12:45,366 - OmniScape_nav_lint - INFO - 输出路径 C:\rosbag2_25031400\data\circle/toImg/ 正常-dirExistCheck
+2025-03-14 15:12:45,370 - OmniScape_nav_lint - ERROR - 话题 /GNSS_0 不存在-topicMsgCheck
+2025-03-14 15:12:54,263 - OmniScape_nav_lint - INFO - DB3文件路径 C:\rosbag2_25031400\data\circle 正常-DB3Check
+2025-03-14 15:12:54,267 - OmniScape_nav_lint - INFO - 输出路径 C:\rosbag2_25031400\data\circle/toCSV/ 正常-dirExistCheck
+2025-03-14 15:12:54,269 - OmniScape_nav_lint - INFO - 输出路径 C:\rosbag2_25031400\data\circle/toImg/ 正常-dirExistCheck
+2025-03-14 15:12:54,273 - OmniScape_nav_lint - ERROR - 话题 /livox/lidar 不存在-topicMsgCheck
+2025-03-14 15:13:25,415 - OmniScape_nav_lint - INFO - DB3文件路径 C:\rosbag2_25031400\data\circle 正常-DB3Check
+2025-03-14 15:13:25,420 - OmniScape_nav_lint - INFO - 输出路径 C:\rosbag2_25031400\data\circle/toCSV/ 正常-dirExistCheck
+2025-03-14 15:13:25,421 - OmniScape_nav_lint - INFO - 输出路径 C:\rosbag2_25031400\data\circle/toImg/ 正常-dirExistCheck
+2025-03-14 15:13:25,425 - OmniScape_nav_lint - ERROR - 话题 /UWB4 不存在-topicMsgCheck
+2025-03-14 15:13:36,546 - OmniScape_nav_lint - INFO - DB3文件路径 C:\rosbag2_25031400\data\circle 正常-DB3Check
+2025-03-14 15:13:36,550 - OmniScape_nav_lint - INFO - 输出路径 C:\rosbag2_25031400\data\circle/toCSV/ 正常-dirExistCheck
+2025-03-14 15:13:36,551 - OmniScape_nav_lint - INFO - 输出路径 C:\rosbag2_25031400\data\circle/toImg/ 正常-dirExistCheck
+2025-03-14 15:13:36,553 - OmniScape_nav_lint - INFO - 话题检查完成,正常-topicMsgCheck
+2025-03-14 15:38:30,240 - OmniScape_nav_lint - INFO - DB3文件路径 C:\rosbag2_25031400\data\circle 正常-DB3Check
+2025-03-14 15:38:30,245 - OmniScape_nav_lint - INFO - 输出路径 C:\rosbag2_25031400\data\circle/toCSV/ 正常-dirExistCheck
+2025-03-14 15:38:30,246 - OmniScape_nav_lint - INFO - 输出路径 C:\rosbag2_25031400\data\circle/toImg/ 正常-dirExistCheck
+2025-03-14 15:38:30,249 - OmniScape_nav_lint - INFO - 话题检查完成,正常-topicMsgCheck
