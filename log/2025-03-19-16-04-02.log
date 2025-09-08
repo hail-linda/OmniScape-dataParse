@@ -1,6 +1,0 @@
-2025-03-19 16:04:02,084 - OmniScape_nav_lint - INFO - DB3文件路径 C:\rosbag_data\rosbag2_2025_03_18-10_49_49 正常-DB3Check
-2025-03-19 16:04:02,092 - OmniScape_nav_lint - INFO - 输出路径 C:\rosbag_data\rosbag2_2025_03_18-10_49_49/toCSV/ 正常-dirExistCheck
-2025-03-19 16:04:02,095 - OmniScape_nav_lint - INFO - 输出路径 C:\rosbag_data\rosbag2_2025_03_18-10_49_49/toImg/ 正常-dirExistCheck
-2025-03-19 16:04:02,099 - OmniScape_nav_lint - INFO - 话题检查完成,正常-topicMsgCheck
-2025-03-19 16:04:03,278 - OmniScape_nav_lint - INFO - CSV导出失败  /XSENSE6：'utf-8' codec can't decode byte 0xec in position 0: invalid continuation byte-<module>
-2025-03-19 16:04:03,304 - OmniScape_nav_lint - INFO - CSV导出失败  /GNSS_0：-<module>

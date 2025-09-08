@@ -1,4 +1,0 @@
-2025-04-24 19:53:17,625 - OmniScape_nav_lint - INFO - DB3文件路径 D:\DATASET\0424\pingtan_circle_001 正常-DB3Check
-2025-04-24 19:53:17,684 - OmniScape_nav_lint - INFO - 输出路径 D:\DATASET\0424\pingtan_circle_001/toCSV/ 不存在，创建路径-dirExistCheck
-2025-04-24 19:53:17,685 - OmniScape_nav_lint - INFO - 输出路径 D:\DATASET\0424\pingtan_circle_001/toImg/ 不存在，创建路径-dirExistCheck
-2025-04-24 19:53:17,698 - OmniScape_nav_lint - INFO - 话题检查完成,正常-topicMsgCheck

@@ -1,8 +1,0 @@
-2025-03-17 15:51:53,553 - OmniScape_nav_lint - INFO - DB3文件路径 C:\yzq_origin\rosbag2_2025_03_15-16_11_54 正常-DB3Check
-2025-03-17 15:51:53,561 - OmniScape_nav_lint - INFO - 输出路径 C:\yzq_origin\rosbag2_2025_03_15-16_11_54/toCSV/ 不存在，创建路径-dirExistCheck
-2025-03-17 15:51:53,565 - OmniScape_nav_lint - INFO - 输出路径 C:\yzq_origin\rosbag2_2025_03_15-16_11_54/toImg/ 不存在，创建路径-dirExistCheck
-2025-03-17 15:51:53,574 - OmniScape_nav_lint - INFO - 话题检查完成,正常-topicMsgCheck
-2025-03-17 15:52:50,484 - OmniScape_nav_lint - INFO - DB3文件路径 C:\yzq_origin\rosbag2_2025_03_15-16_04_29 正常-DB3Check
-2025-03-17 15:52:50,490 - OmniScape_nav_lint - INFO - 输出路径 C:\yzq_origin\rosbag2_2025_03_15-16_04_29/toCSV/ 正常-dirExistCheck
-2025-03-17 15:52:50,493 - OmniScape_nav_lint - INFO - 输出路径 C:\yzq_origin\rosbag2_2025_03_15-16_04_29/toImg/ 正常-dirExistCheck
-2025-03-17 15:52:50,497 - OmniScape_nav_lint - INFO - 话题检查完成,正常-topicMsgCheck

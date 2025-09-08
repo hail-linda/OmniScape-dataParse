@@ -1,9 +1,0 @@
-2025-03-19 13:47:09,546 - OmniScape_nav_lint - INFO - ros pickle 导出失败  /XSENSE6：unhashable type: 'dict'-<module>
-2025-03-19 13:47:11,038 - OmniScape_nav_lint - INFO - ros pickle 导出失败  /GNSS_0：unhashable type: 'dict'-<module>
-2025-03-19 13:47:20,613 - OmniScape_nav_lint - INFO - ros pickle 导出失败  /CGI10103：unhashable type: 'dict'-<module>
-2025-03-19 13:48:46,910 - OmniScape_nav_lint - INFO - ros pickle 导出失败  /XSENSE6：unhashable type: 'dict'-<module>
-2025-03-19 13:48:48,429 - OmniScape_nav_lint - INFO - ros pickle 导出失败  /GNSS_0：unhashable type: 'dict'-<module>
-2025-03-19 13:48:58,275 - OmniScape_nav_lint - INFO - ros pickle 导出失败  /CGI10103：unhashable type: 'dict'-<module>
-2025-03-19 13:50:18,895 - OmniScape_nav_lint - INFO - ros pickle 导出失败  /XSENSE6：unhashable type: 'dict'-<module>
-2025-03-19 13:50:20,239 - OmniScape_nav_lint - INFO - ros pickle 导出失败  /GNSS_0：unhashable type: 'dict'-<module>
-2025-03-19 13:50:27,238 - OmniScape_nav_lint - INFO - ros pickle 导出失败  /CGI10103：unhashable type: 'dict'-<module>

@@ -1,7 +1,0 @@
-2025-04-18 20:14:03,187 - OmniScape_nav_lint - INFO - DB3文件路径 E:\NAV_DATASETS\rosbag2_2025_04_18-17_25_16 正常-DB3Check
-2025-04-18 20:14:03,219 - OmniScape_nav_lint - INFO - 输出路径 E:\NAV_DATASETS\rosbag2_2025_04_18-17_25_16/toCSV/ 不存在，创建路径-dirExistCheck
-2025-04-18 20:14:03,654 - OmniScape_nav_lint - INFO - 输出路径 E:\NAV_DATASETS\rosbag2_2025_04_18-17_25_16/toImg/ 不存在，创建路径-dirExistCheck
-2025-04-18 20:14:03,672 - OmniScape_nav_lint - INFO - 话题检查完成,正常-topicMsgCheck
-2025-04-18 20:19:08,892 - OmniScape_nav_lint - INFO - CSV导出失败  /XSENSE6：name 'copy' is not defined-<module>
-2025-04-18 20:19:08,908 - OmniScape_nav_lint - INFO - CSV导出失败  /GNSS_0：name 'copy' is not defined-<module>
-2025-04-18 20:19:08,927 - OmniScape_nav_lint - INFO - CSV导出失败  /CGI10103：name 'copy' is not defined-<module>
