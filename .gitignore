@@ -1,3 +1,5 @@
 
 GNSSFeature/nav_db.json
 name.ros_pickle
+/__pycache__
+log/*.log
